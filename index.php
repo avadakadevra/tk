@@ -122,8 +122,8 @@
 
   <!-- Main Footer -->
   <footer class="main-footer">
-    <strong> &copy; PA46133 Maj Faisal Javed, PAxxxxx Maj Nauman Sikandar2021 <a href="https://www.itsourcecode.com/">itsourcecode.com</a>.</strong>
-    All rights reserved.
+    <strong>PA-46133 Maj Faisal Javed, PSS-47607 Maj Nauman Sikander</strong>
+    GIS&RS-17
     <div class="float-right d-none d-sm-inline-block">
       <b><?php echo $_SESSION['system']['name'] ?></b>
     </div>
