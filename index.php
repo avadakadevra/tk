@@ -123,7 +123,7 @@
   <!-- Main Footer -->
   <footer class="main-footer">
     <strong>NamesOfMembers</strong>
-    GIS&RS-17
+    
     <div class="float-right d-none d-sm-inline-block">
       <b><?php echo $_SESSION['system']['name'] ?></b>
     </div>
