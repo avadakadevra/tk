@@ -122,7 +122,7 @@
 
   <!-- Main Footer -->
   <footer class="main-footer">
-    <strong>PA-46133 Maj Faisal Javed, PSS-47607 Maj Nauman Sikander</strong>
+    <strong>NamesOfMembers</strong>
     GIS&RS-17
     <div class="float-right d-none d-sm-inline-block">
       <b><?php echo $_SESSION['system']['name'] ?></b>
